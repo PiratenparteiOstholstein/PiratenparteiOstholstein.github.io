@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://PiratenparteiOstholstein.github.io/post/hallo-internet/</loc>
+    <lastmod>2017-06-09T01:02:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://PiratenparteiOstholstein.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://PiratenparteiOstholstein.github.io/</loc>
+    <lastmod>2017-06-09T01:02:53+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://PiratenparteiOstholstein.github.io/post/</loc>
+    <lastmod>2017-06-09T01:02:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
